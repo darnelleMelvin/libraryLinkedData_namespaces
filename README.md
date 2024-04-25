@@ -7,6 +7,7 @@ This repository contains a collection of namespace definitions commonly used in 
 # Purpose
 The purpose of this repository is to centralize and document the namespaces utilized in our triplestore. By maintaining a clear record of these namespaces, we ensure consistency across projects and facilitate collaboration among team members.
 
+# Namespaces
 
 | Prefix   | Namespace                                                 |
 |----------|-----------------------------------------------------------|
