@@ -11,6 +11,7 @@ The purpose of this repository is to centralize and document the namespaces util
 
 | Prefix   | Namespace                                                 |
 |----------|-----------------------------------------------------------|
+|agrelon   | https://d-nb.info/standards/elementset/agrelon#          |
 | bd       | http://www.bigdata.com/rdf#                               |
 | bf       | http://id.loc.gov/ontologies/bibframe/                    |
 | bflc     | http://id.loc.gov/ontologies/bflc/                        |
@@ -56,4 +57,3 @@ The purpose of this repository is to centralize and document the namespaces util
 | wgs84_pos| http://www.w3.org/2003/01/geo/wgs84_pos#                 |
 | wikibase | http://wikiba.se/ontology#                               |
 | xsd      | http://www.w3.org/2001/XMLSchema#                        |
-|agrelon   | https://d-nb.info/standards/elementset/agrelon#          |
