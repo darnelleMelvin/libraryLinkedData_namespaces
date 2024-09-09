@@ -27,7 +27,8 @@ The purpose of this repository is to centralize and document the namespaces util
 | mads     | http://www.loc.gov/mads/rdf/v1#                           |
 | map      | http://www.w3.org/2005/xpath-functions/map                |
 | math     | http://www.w3.org/2005/xpath-functions/math               |
-| ontolex  | http://www.w3.org/ns/lemon/ontolex#                      |
+| ontolex  | http://www.w3.org/ns/lemon/ontolex#                       |
+| openwemi | https://ns.dublincore.org/openwemi/                       |
 | owl      | http://www.w3.org/2002/07/owl#                            |
 | p        | http://www.wikidata.org/prop/                             |
 | pq       | http://www.wikidata.org/prop/qualifier/                   |
