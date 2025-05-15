@@ -11,12 +11,19 @@ The purpose of this repository is to centralize and document the namespaces util
 
 | Prefix   | Namespace                                                 |
 |----------|-----------------------------------------------------------|
-|agrelon   | https://d-nb.info/standards/elementset/agrelon#          |
+| adms     | http://www.w3.org/ns/adms#                                |
+| agrelon  | https://d-nb.info/standards/elementset/agrelon#           |
+| array    | http://www.w3.org/2005/xpath-functions/array              |
 | bd       | http://www.bigdata.com/rdf#                               |
 | bf       | http://id.loc.gov/ontologies/bibframe/                    |
 | bflc     | http://id.loc.gov/ontologies/bflc/                        |
+| bibo     | http://purl.org/ontology/bibo/                            |
 | cc       | http://creativecommons.org/ns#                            |
-| dcterms  | http://purl.org/dc/terms/                                |
+| dc       | http://purl.org/dc/elements/1.1/                          |
+| dcat     | http://www.w3.org/ns/dcat#                                |
+| dcmitype | http://purl.org/dc/dcmitype/                              |
+| dct      | http://purl.org/dc/terms/                                 |
+| dcterms  | http://purl.org/dc/terms/                                 |
 | fn       | http://www.w3.org/2005/xpath-functions                    |
 | foaf     | http://xmlns.com/foaf/0.1/                                |
 | geo      | http://www.opengis.net/ont/geosparql#                     |
@@ -41,20 +48,25 @@ The purpose of this repository is to centralize and document the namespaces util
 | ps       | http://www.wikidata.org/prop/statement/                   |
 | psn      | http://www.wikidata.org/prop/statement/value-normalized/  |
 | psv      | http://www.wikidata.org/prop/statement/value/             |
-| rdf      | http://www.w3.org/1999/02/22-rdf-syntax-ns#              |
-| rdfs     | http://www.w3.org/2000/01/rdf-schema#                    |
+| rdf      | http://www.w3.org/1999/02/22-rdf-syntax-ns#               |
+| rdfs     | http://www.w3.org/2000/01/rdf-schema#                     |
 | rel      | http://id.loc.gov/vocabulary/relators                     |
-| schema   | https://schema.org/                                      |
-| skos     | http://www.w3.org/2004/02/skos/core#                     |
-| skosxl   | http://www.w3.org/2008/05/skos-xl#                       |
-| wd       | http://www.wikidata.org/entity/                          |
+| schema   | http://schema.org/                                        |
+| skos     | http://www.w3.org/2004/02/skos/core#                      |
+| skosxl   | http://www.w3.org/2008/05/skos-xl#                        |
+| vann     | http://purl.org/vocab/vann/                               |
+| vcard    | http://www.w3.org/2006/vcard/ns#                          |
+| voaf     | http://purl.org/vocommons/voaf#                           |
+| void     | http://rdfs.org/ns/void#                                  |
+| vs       | http://www.w3.org/2003/06/sw-vocab-status/ns#             |
+| wd       | http://www.wikidata.org/entity/                           |
 | wdata    | http://www.wikidata.org/wiki/Special:EntityData/          |
-| wdno     | http://www.wikidata.org/prop/novalue/                    |
-| wdref    | http://www.wikidata.org/reference/                       |
+| wdno     | http://www.wikidata.org/prop/novalue/                     |
+| wdref    | http://www.wikidata.org/reference/                        |
 | wds      | http://www.wikidata.org/entity/statement/                 |
-| wdt      | http://www.wikidata.org/prop/direct/                     |
+| wdt      | http://www.wikidata.org/prop/direct/                      |
 | wdtn     | http://www.wikidata.org/prop/direct-normalized/           |
-| wdv      | http://www.wikidata.org/value/                           |
-| wgs84_pos| http://www.w3.org/2003/01/geo/wgs84_pos#                 |
-| wikibase | http://wikiba.se/ontology#                               |
-| xsd      | http://www.w3.org/2001/XMLSchema#                        |
+| wdv      | http://www.wikidata.org/value/                            |
+| wgs      | http://www.w3.org/2003/01/geo/wgs84_pos#                  |
+| wikibase | http://wikiba.se/ontology#                                |
+| xsd      | http://www.w3.org/2001/XMLSchema#                         |
