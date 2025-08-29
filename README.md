@@ -30,6 +30,7 @@ The purpose of this repository is to centralize and document the namespaces util
 | geoext   | http://rdf.useekm.com/ext#                                |
 | geof     | http://www.opengis.net/def/function/geosparql/            |
 | gn       | http://www.geonames.org/ontology#                         |
+| gvp      | http://vocab.getty.edu/ontology#                          |
 | hint     | http://www.bigdata.com/queryHints#                        |
 | mads     | http://www.loc.gov/mads/rdf/v1#                           |
 | map      | http://www.w3.org/2005/xpath-functions/map                |
